@@ -1,0 +1,20 @@
+#separator:tab
+#html:false
+Hanzi	Pinyin	English	
+我	 wǒ	 я / мой / меня	
+你	 nǐ	 ты / твой / тебя	
+他	 tā	 он	
+她	 tā	 она	
+我们	wǒmen	we / us	
+你们	nǐmen	you (plural)	
+他们	tāmen	they / them (male/mixed)	
+她们	tāmen	they / them (female)	
+谁	shéi	who	
+人	rén	person / people	
+孩子	háizi	child	
+爸爸	bàba	dad	
+妈妈	māma	mum	
+朋友	péngyou	friend	
+老师	lǎoshī	teacher	
+是	 shì	 быть / являться / да	
+不	bù	no / not	

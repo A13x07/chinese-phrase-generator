@@ -1,0 +1,271 @@
+#separator:tab
+#html:false
+就	jiù	then; at once; just; only; with regard to	
+要	yào, yāo	to want; to need; will/shall; important | demand; request	
+还	hái, huán	still; yet; in addition; even | repay; to return	
+让	ràng	ask; let; yield	
+得	dé, děi, de	obtain | must | (complement particle)	
+别	bié, biè	don't do something; don't | depart; | other; difference; distinguish	
+告诉	gàosu	to tell; inform	
+因为	yīnwèi	because	
+快	kuài	fast; quick; swift	
+但是	dànshì	but; however	
+觉得	juéde	feel; think	
+它	tā	it	
+从	cóng	from; obey; observe	
+找	zhǎo	try to find; look for; seek; to give change	
+最	zuì	the most; -est; (indicator for superlative)	
+可能	kěnéng	possible; maybe	
+次	cì	(mw for number of times of occurrence); nth; order	
+出	chū	go out; occur	
+孩子	háizi	child; children; son or daughter	
+两	liǎng	two; 2; both; (unit of weight equal to 50 grams)	
+错	cuò	mistake; error; blunder; miss an opportunity	
+等	děng	to wait; rank; equal; etc.	
+问题	wèntí	question; problem	
+一起	yìqǐ	together; in the same place	
+事情	shìqing	matter; affair; thing; business	
+非常	fēicháng	extremely; extraordinary; very	
+希望	xīwàng	to hope; wish for; to desire	
+准备	zhǔnbèi	prepare; get ready	
+比	bǐ	compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks	
+件	jiàn	(mw for things, clothes, and items)	
+意思	yìsi	meaning; idea; opinion	
+第一	dìyī	first; number 1	
+大家	dàjiā	everyone	
+新	xīn	new; Xinjiang autonomous region (abbreviation)	
+穿	chuān	to wear; put on; penetrate	
+送	sòng	deliver; to carry; to give; send	
+玩	wán	to play; have a good time; visit; enjoy	
+长	cháng, zhǎng	long; length | grow; chief (Kangxi radical 168)	
+小时	xiǎoshí	hour	
+帮助	bāngzhù	help; assist; aid	
+说话	shuōhuà	to talk; speak	
+卖	mài	to sell	
+高	gāo	high; tall (Kangxi radical 189)	
+房间	fángjiān	room	
+懂	dǒng	understand; know	
+正在	zhèngzài	in the process of (doing something); currently	
+笑	xiào	to laugh; to smile	
+远	yuǎn	far; distant; remote	
+离	lí	leave; depart; go away; apart from	
+休息	xiūxi	to rest; take a break	
+外	wài	outer; outside; in addition; foreign	
+生日	shēngrì	birthday	
+跳舞	tiào wǔ	to dance	
+红	hóng	red; symbol of success; bonus; popular	
+慢	màn	slow	
+近	jìn	near; close (to)	
+姐姐	jiějie	older sister	
+介绍	jièshào	to introduce; recommend; introduction	
+鱼	yú	fish (Kangxi radical 195)	
+累	lèi, lěi, léi	tired | accumulate; implicate | rope; bind together	
+旁边	pángbiān	side, beside	
+运动	yùndòng	(physical) exercise; movement; sports; campaign	
+去年	qùnián	last year	
+颜色	yánsè	color	
+唱歌	chànggē	sing (a song)	
+好吃	hǎochī	tasty	
+考试	kǎoshì	test; exam; to give or take a test	
+百	bǎi	hundred	
+生病	shēng bìng	get sick; fall ill	
+游泳	yóuyǒng	to swim	
+牛奶	niúnǎi	cow's milk	
+便宜	piányi	cheap	
+起床	qǐ chuáng	get out of bed	
+手表	shǒubiǎo	wristwatch	
+服务员	fúwùyuán	waiter/waitress; server; attendant	
+跑步	pǎo bù	to run; to jog	
+面条	miàntiáo	noodles	
+铅笔	qiānbǐ	pencil	
+西瓜	xīguā	watermelon	
+羊肉	yángròu	mutton; lamb	
+晴	qíng	clear; fine (as of weather)	
+我	wǒ	I; me	
+你	nǐ	you (singular)	
+了	le	indicates a completed or finished action	
+不	bù	no; not	
+在	zài	at; on; in; indicates an action in progress	
+他	tā	he; him	
+我们	wǒmen	we; us	
+好	hǎo	good	
+有	yǒu	have	
+会	huì	know how to	
+什么	shénme	what? (replaces the noun to turn a statement into a question)	
+说	shuō	speak	
+她	tā	she	
+想	xiǎng	think; believe; suppose; would like to	
+一	yī	one; once; a	
+很	hěn	very; quite	
+人	rén	person; man; people	
+来	lái	come; arrive; ever since; next	
+个	ge	general measure word	
+去	qù	go; to leave	
+和	hé	and; with	
+做	zuò	do; make	
+上	shàng	above; up	
+没有	méiyǒu	not have; there is not	
+看	kàn	see; look at; to watch	
+怎么	zěnme	how?	
+现在	xiànzài	now	
+点	diǎn	a dot; a little; o'clock	
+呢	ne	indicates a question; how about...?;	
+太	tài	too (much)	
+里	lǐ	inside; Chinese mile (~.5 km)	
+听	tīng	listen; hear	
+多	duō	many	
+时候	shíhou	time	
+先生	xiān shēng	Mr.; Sir	
+喜欢	xǐhuan	to like	
+大	dà	big; large	
+东西	dōngxi	things; stuff	
+小	xiǎo	small; young	
+爱	ài	love	
+年	nián	year	
+回	huí	to return; to reply; to go back	
+钱	qián	money; coin	
+吃	chī	eat	
+家	jiā	I am at my home	
+哪	nǎ	which; how	
+朋友	péng yǒu	friend	
+妈妈	māma	mom; mum	
+今天	jīntiān	today	
+几	jǐ	how many; several; a few	
+爸爸	bàba	Dad	
+怎么样	zěnmeyàng	how about?; how is/was it?	
+对不起	Duì bù qǐ	sorry	
+住	zhù	to live; reside; to stop	
+买	mǎi	to buy	
+医生	yīshēng	doctor	
+哪儿	nǎ ér	where? (Beijing accent)	
+字	zì	letter; character	
+认识	rènshí	recognize; know (a person)	
+坐	zuò	sit	
+喝	hē	to drink	
+写	xiě	to write; to compose	
+号	hào	number; day of a month	
+看见	kànjiàn	see; catch sight of	
+打电话	dǎ diànhuà	make a phone call	
+喂	wèi	hello (on the phone)	
+儿子	érzi	son	
+漂亮	piào liàng	pretty; beautiful	
+分钟	fēnzhōng	minute; (measure word for time)	
+再见	zàijiàn	goodbye; see you later	
+本	běn	measure word for books	
+明天	míngtiān	tomorrow	
+少	shǎo	few; little	
+多少	duōshao	how much?; how many?	
+块	kuài	lump; piece; sum of money	
+女儿	nǚ'ér	daughter	
+小姐	xiǎojie	young lady; miss; Ms.	
+衣服	yīfu	clothes	
+水	shuǐ	water	
+学校	xuéxiào	school	
+电影	diànyǐng	movie; film	
+书	shū	book; letter	
+四	sì	four	
+五	wǔ	five	
+医院	yīyuàn	hospital	
+没关系	méi guān xì	it doesn't matter; never mind	
+二	èr	two	
+后面	hòumiàn	back; behind	
+昨天	zuótiān	yesterday	
+星期	xīngqī	week	
+十	shí	ten	
+猫	māo	cat	
+热	rè	heat; hot	
+下午	xiàwǔ	afternoon	
+学习	xuéxí	learn; to study	
+冷	lěng	cold	
+不客气	bú kèqi	you're welcome; don't be polite	
+前面	qiánmiàn	in front	
+中国	Zhōngguó	China	
+七	qī	seven	
+菜	cài	dish (type of food); vegetables	
+天气	tiānqì	weather	
+茶	chá	tea	
+九	jiǔ	nine	
+同学	tóngxué	fellow student; schoolmate	
+饭店	fàndiàn	restaurant; hotel	
+水果	shuǐguǒ	fruit	
+杯子	bēizi	cup; glass	
+下雨	xiàyǔ	to rain	
+米饭	mǐfàn	(cooked) rice	
+北京	Běijīng	Beijing	
+汉语	Hànyǔ	Chinese language	
+也	yě	also; too	
+再	zài	again; once more	
+问	wèn	ask; inquire	
+一下	yíxià	a little bit/while; one time; once	
+您	nín	you (polite)	
+门	mén	door; opening; gate (Kangxi radical 169)	
+忙	máng	busy	
+路	lù	road; path; journey; route	
+妻子	qīzi	wife	
+丈夫	zhàngfu	husband; man	
+往	wǎng	to go (in a direction); towards; in the past	
+男	nán	male	
+日	rì	sun; day; date; time (Kangxi radical 72)	
+生日	shēngrì	birthday	
+洗	xǐ	to wash; bathe	
+妹妹	mèimei	younger sister	
+机场	jīchǎng	airport; airfield	
+左边	zuǒbian	the left side; the left	
+姓	xìng	surname; family name	
+雪	xuě	snow	
+右边	yòubian	the right (as opposed to left) side	
+零	líng	zero; remnant	
+宾馆	bīnguǎn	guesthouse; hotel	
+阴	yīn	cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade	
+火车站	huǒchēzhàn	train station	
+起来	qǐ lai	(beginning or continuing an action); to rise; get up (from bed)	
+发	fā, fà	send out; to issue; to show (one's feelings) | hair	
+老	lǎo	old; aged; tough; often (Kangxi radical 125)	
+张	zhāng	(mw for flat objects); to spread out; (common surname)	
+关	guān	to close; shut; concern; relationship; turn off; mountain pass	
+马	mǎ	horse (Kangxi radical 187)	
+难	nán, nàn	difficult | trouble; to blame	
+分	fēn, fèn	divide; part; minute; cent | component; share; ingredient	
+口	kǒu	mouth (Kangxi radical 30)	
+见面	jiànmiàn	meet/see somebody (face to face); meeting	
+一会儿	yíhuìr	a while; a moment	
+西	xī	West (Kangxi radical 146)	
+班	bān	team; class; squad	
+客人	kèrén	guest; customer	
+东	dōng	East	
+起飞	qǐfēi	take off (in an airplane); liftoff	
+爱好	àihào	hobby; fond of; to like; interest	
+中文	Zhōngwén	Chinese (language)	
+发生	fāshēng	happen; occur; take place	
+拉	lā, lá	to pull; to play (string instruments); to drag | to slash; to chat	
+说明	shuōmíng	explain; explanation; illustrate; to show	
+杂志	zázhì	magazine	
+取	qǔ	to take; get; choose	
+十分	shífēn	very; fully; 100%	
+寄	jì	send by mail	
+作家	zuòjiā	author; writer	
+对面	duìmiàn	opposite; across from; the other side	
+气候	qìhòu	climate; atmosphere; weather	
+太太	tàitai	wife; married woman; Madame; Mrs.	
+个人	gèrén	individual; personal; oneself	
+人生	rénshēng	human life	
+明星	míngxīng	(movie, etc.) star; celebrity	
+分手	fēnshǒu	part company; break up	
+说服	shuō fú	persuade; convince	
+对手	duìshǒu	opponent; adversary; match	
+后果	hòuguǒ	consequences; aftermath	
+时期	shíqī	period in time or history; period; time	
+人口	rénkǒu	population; the populace	
+银	yín	silver (the element)	
+日期	rìqī	date	
+写作	xiězuò	writing; composition; written works	
+问候	wènhòu	send a greeting; send one's regards to	
+打工	dǎgōng	work a part time job; (regional) do manual labor; do odd jobs	
+体现	tǐxiàn	embody; incarnate; reflect; to manifest	
+发票	fāpiào	receipt or bill for purchase; invoice	
+一再	yízài	repeatedly; again and again	
+行人	xíngrén	pedestrian	
+作文	zuò wén	write an essay; essay	
+好客	hàokè	hospitable; to enjoy having guests	
+看不起	kàn bu qǐ	look down upon; despise	
+学问	xuéwen	learning; knowledge	
