@@ -43,7 +43,8 @@ Rules:
 2. Each phrase must be 3 or more words long.
 3. Make the phrases natural and useful for daily conversation.
 4. Write ONLY the Chinese phrases, one per line.
-5. Do not include pinyin, English translations, or numbering."""
+5. Do not include pinyin, English translations, or numbering.
+6. Include appropriate Chinese punctuation at the end of each phrase."""
             }
         ]
     )

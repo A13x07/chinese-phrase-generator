@@ -1,0 +1,17 @@
+#separator:tab
+#html:false
+吗	ma	(question particle)
+的	de	(possessive/descriptive particle)
+这个	zhège	this
+了	le	(completed action particle)
+吧	ba	(suggestion particle)
+呀	ya	(exclamation particle)
+吃饭	chīfàn	eat (a meal)
+喝茶	hē chá	drink tea
+看看	kànkan	take a look
+你好	nǐhǎo	hello
+这	zhè	this
+这里	zhèlǐ	here
+那	nà	that
+那里	nàlǐ	there
+们	men	(plural particle)
