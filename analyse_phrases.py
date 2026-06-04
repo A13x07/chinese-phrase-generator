@@ -52,24 +52,29 @@ def store_phrases(phrases):
     print(f"Stored {len(phrases)} phrases in the database")
 
 def split_unknown_word(word, known_words):
-    """Try to split an unknown word into known words."""
-    # Try splitting into two parts
-    for i in range(1, len(word)):
-        left = word[:i]
-        right = word[i:]
-        if left in known_words and right in known_words:
-            return [left, right]
+    """Split a word into known and unknown parts using longest match."""
+    result = []
+    i = 0
+    while i < len(word):
+        matched = False
+        # Try longest match first, then shorter
+        for length in range(len(word) - i, 0, -1):
+            substr = word[i:i + length]
+            if substr in known_words:
+                result.append(substr)
+                i += length
+                matched = True
+                break
+        if not matched:
+            # Single character, not known
+            result.append(word[i])
+            i += 1
 
-    # Try splitting into three parts
-    for i in range(1, len(word)):
-        for j in range(i + 1, len(word)):
-            left = word[:i]
-            middle = word[i:j]
-            right = word[j:]
-            if left in known_words and middle in known_words and right in known_words:
-                return [left, middle, right]
-
-    return [word]
+    # If no known words were found, keep the original word whole
+    has_known = any(part in known_words for part in result)
+    if not has_known:
+        return [word]
+    return result
 
 def analyse_phrases():
     """Segment each phrase and check words against known vocabulary."""
@@ -147,7 +152,7 @@ if __name__ == "__main__":
     words = get_known_words()
     print(f"Loaded {len(words)} known words")
 
-    phrases = generate_phrases(words, 20)
+    phrases = generate_phrases(words, 100)
     store_phrases(phrases)
 
     # Step 3: Analyse
