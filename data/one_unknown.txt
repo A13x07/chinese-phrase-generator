@@ -1,4 +1,10 @@
 #separator:tab
 #html:false
-她在听音乐。	tā zài tīng yīn yuè	She is listening to music.
-你坐下吧。	nǐ zuò xià ba	Please sit down.
+我不知道。	wǒ bù zhī dào	I don't know.
+那个太贵了。	nà ge tài guì le	That is too expensive.
+他在听音乐吗？	tā zài tīng yīn yuè ma	Is he listening to music?
+你明天有时间吗？	nǐ míng tiān yǒu shí jiān ma	Do you have time tomorrow?
+我想了解中国文化。	wǒ xiǎng liǎo jiě zhōng guó wén huà	I want to learn about Chinese culture.
+我决定去学汉语。	wǒ jué dìng qù xué hàn yǔ	I decided to study Chinese.
+我要买一杯茶。	wǒ yào mǎi yī bēi chá	I want to buy a cup of tea.
+我想喝一杯牛奶。	wǒ xiǎng hē yī bēi niú nǎi	I want to drink a glass of milk.

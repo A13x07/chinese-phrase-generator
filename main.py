@@ -6,9 +6,6 @@ from frequency_analysis import unknown_word_frequency, most_valuable_words
 RAW_DATA_DIR = "data/raw"
 DATABASE_PATH = "data/chinese_learning.db"
 
-NUMBER_OF_PHRASES = 100
-
-
 def run_pipeline():
     """Run the complete Chinese Phrase Generator pipeline."""
 
@@ -27,8 +24,11 @@ def run_pipeline():
     print("=" * 50)
     create_phrases_table()
     words = get_known_words()
+    number_of_phrases = int(len(words) * 0.3)
     print(f"Loaded {len(words)} known words")
-    phrases = generate_phrases(words, NUMBER_OF_PHRASES)
+    print(f"Generating {number_of_phrases} phrases...")
+    phrases = generate_phrases(words, number_of_phrases)
+    phrases = phrases[:number_of_phrases]
     store_phrases(phrases)
 
     # Step 3: Analyse phrases
@@ -52,6 +52,24 @@ def run_pipeline():
     create_views()
     export_views()
 
+    # Step 6: Generate dialogues
+    print("\n" + "=" * 50)
+    print("STEP 6: Generating dialogues")
+    print("=" * 50)
+    from generate_dialogues import create_dialogue_tables, get_known_phrases, generate_dialogues as gen_dialogues, parse_and_store_dialogues, display_dialogues, validate_dialogues, export_dialogues
+    create_dialogue_tables()
+    known_phrases = get_known_phrases()
+    print(f"Found {len(known_phrases)} known phrases")
+    number_of_dialogues = max(3, len(known_phrases) // 15)
+    print(f"Generating {number_of_dialogues} dialogues...")
+    response = gen_dialogues(known_phrases, number_of_dialogues)
+    parse_and_store_dialogues(response)
+    display_dialogues()
+    validate_dialogues()
+    export_dialogues()
+    print("\n" + "=" * 50)
+    print("PIPELINE COMPLETE")
+    print("=" * 50)
 
 if __name__ == "__main__":
     run_pipeline()

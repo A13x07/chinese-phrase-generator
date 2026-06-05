@@ -34,8 +34,8 @@ def generate_phrases(words, number_of_phrases=20):
 
 {word_list}
 
-Generate exactly {number_of_phrases} Chinese phrases or short sentences 
-for me to practice reading and speaking. 
+Generate up to {number_of_phrases} Chinese phrases or short sentences 
+for me to practice reading and speaking.
 
 Rules:
 1. Use ONLY the words from my list above. Do not use any words 
