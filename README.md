@@ -50,3 +50,11 @@ they contain.
 
 ## Documentation
 Task-by-task development documentation is in the `docs/` folder.
+
+## Note on classification
+Difficulty is determined by comparing each generated phrase against 
+the learner's known vocabulary using word segmentation (jieba). 
+Phrases are classified by the number of unknown words they contain: 
+easy (0), medium (1), hard (2), and very hard (3+). This 
+classification is approximate, as accuracy depends on segmentation 
+and context.
