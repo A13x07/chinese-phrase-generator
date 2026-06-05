@@ -1,101 +1,100 @@
 #separator:tab
 #html:false
 你好吗？	nǐ hǎo ma	How are you?
-我很好。	wǒ hěn hǎo	I'm doing well.
+我很好。	wǒ hěn hǎo	I am fine.
 他是老师。	tā shì lǎo shī	He is a teacher.
 她是我妈妈。	tā shì wǒ mā mā	She is my mother.
 这是什么？	zhè shì shén me	What is this?
 我不知道。	wǒ bù zhī dào	I don't know.
 你吃饭了吗？	nǐ chī fàn le ma	Have you eaten?
 我们一起吃饭吧。	wǒ men yì qǐ chī fàn ba	Let's eat together.
-他在哪儿？	tā zài nǎ ér	Where is he?
+他在哪里？	tā zài nǎ lǐ	Where is he?
 我想喝茶。	wǒ xiǎng hē chá	I want to drink tea.
 你喜欢什么？	nǐ xǐ huān shén me	What do you like?
-她很漂亮。	tā hěn piào liàng	She is very beautiful.
-我爱你。	wǒ ài nǐ	I love you.
-这个多少钱？	zhè ge duō shǎo qián	How much does this cost?
-我没有钱。	wǒ méi yǒu qián	I don't have money.
-你是老师吗？	nǐ shì lǎo shī ma	Are you a teacher?
-他们在哪里？	tā men zài nǎ lǐ	Where are they?
-我想去北京。	wǒ xiǎng qù běi jīng	I want to go to Beijing.
-你会说汉语吗？	nǐ huì shuō hàn yǔ ma	Can you speak Chinese?
-我在学习汉语。	wǒ zài xué xí hàn yǔ	I am studying Chinese.
-这里有水果吗？	zhè lǐ yǒu shuǐ guǒ ma	Is there fruit here?
-我想买衣服。	wǒ xiǎng mǎi yī fú	I want to buy clothes.
-他是我朋友。	tā shì wǒ péng yǒu	He is my friend.
-你们好吗？	nǐ men hǎo ma	How are you all?
-我们去饭店吧。	wǒ men qù fàn diàn ba	Let's go to the restaurant.
-她喜欢跳舞。	tā xǐ huān tiào wǔ	She likes to dance.
-我觉得很累。	wǒ jué de hěn lèi	I feel very tired.
-你吃什么？	nǐ chī shén me	What are you eating?
-我想喝牛奶。	wǒ xiǎng hē niú nǎi	I want to drink milk.
-他在看书。	tā zài kàn shū	He is reading a book.
-我们去看电影吧。	wǒ men qù kàn diàn yǐng ba	Let's go watch a movie.
+我爱我的家。	wǒ ài wǒ de jiā	I love my home.
+这个东西多少钱？	zhè ge dōng xī duō shǎo qián	How much does this thing cost?
+我们去医院吧。	wǒ men qù yī yuàn ba	Let's go to the hospital.
 你认识他吗？	nǐ rèn shí tā ma	Do you know him?
 我不认识她。	wǒ bù rèn shí tā	I don't know her.
-这个是什么意思？	zhè ge shì shén me yì si	What does this mean?
-我们是同学。	wǒ men shì tóng xué	We are classmates.
-你家在哪儿？	nǐ jiā zài nǎ ér	Where is your home?
-我家在北京。	wǒ jiā zài běi jīng	My home is in Beijing.
-他很忙。	tā hěn máng	He is very busy.
-我想休息一下。	wǒ xiǎng xiū xī yī xià	I want to rest for a while.
-你喜欢运动吗？	nǐ xǐ huān yùn dòng ma	Do you like sports?
-我喜欢游泳。	wǒ xǐ huān yóu yǒng	I like swimming.
-她在唱歌。	tā zài chàng gē	She is singing.
-今天天气怎么样？	jīn tiān tiān qì zěn me yàng	What is the weather like today?
-今天很热。	jīn tiān hěn rè	It is very hot today.
-明天下雨吗？	míng tiān xià yǔ ma	Will it rain tomorrow?
+他是我的朋友。	tā shì wǒ de péng yǒu	He is my friend.
+我想去北京。	wǒ xiǎng qù běi jīng	I want to go to Beijing.
+你今天忙吗？	nǐ jīn tiān máng ma	Are you busy today?
+我们去看电影吧。	wǒ men qù kàn diàn yǐng ba	Let's go watch a movie.
+他在学校里。	tā zài xué xiào lǐ	He is at school.
+我想买衣服。	wǒ xiǎng mǎi yī fú	I want to buy clothes.
+这个多少钱？	zhè ge duō shǎo qián	How much is this?
+你喝水吗？	nǐ hē shuǐ ma	Do you drink water?
 我们一起去吧。	wǒ men yì qǐ qù ba	Let's go together.
-你有孩子吗？	nǐ yǒu hái zi ma	Do you have children?
-他是我儿子。	tā shì wǒ ér zi	He is my son.
-她是我女儿。	tā shì wǒ nǚ ér	She is my daughter.
-我想找我朋友。	wǒ xiǎng zhǎo wǒ péng yǒu	I want to find my friend.
-你住在哪里？	nǐ zhù zài nǎ lǐ	Where do you live?
-我住在北京。	wǒ zhù zài běi jīng	I live in Beijing.
-他去医院了。	tā qù yī yuàn le	He went to the hospital.
-我要打电话。	wǒ yào dǎ diàn huà	I need to make a phone call.
-你会游泳吗？	nǐ huì yóu yǒng ma	Can you swim?
-我不会跳舞。	wǒ bú huì tiào wǔ	I can't dance.
-这件衣服多少钱？	zhè jiàn yī fú duō shǎo qián	How much does this piece of clothing cost?
-那个太贵了。	nà ge tài guì le	That is too expensive.
-我要买水果。	wǒ yào mǎi shuǐ guǒ	I want to buy fruit.
-你喜欢吃什么？	nǐ xǐ huān chī shén me	What do you like to eat?
-我最喜欢吃鱼。	wǒ zuì xǐ huān chī yú	My favorite food is fish.
-他在做什么？	tā zài zuò shén me	What is he doing?
-她正在看书。	tā zhèng zài kàn shū	She is reading a book.
-我们去学校吧。	wǒ men qù xué xiào ba	Let's go to school.
-你有问题吗？	nǐ yǒu wèn tí ma	Do you have any questions?
-我有一个问题。	wǒ yǒu yí gè wèn tí	I have a question.
-他告诉我了。	tā gào sù wǒ le	He told me.
-我不明白。	wǒ bù míng bái	I don't understand.
-你说什么？	nǐ shuō shén me	What did you say?
-我听不懂。	wǒ tīng bù dǒng	I can't understand.
+他是我爸爸。	tā shì wǒ bà bà	He is my father.
+她在哪儿？	tā zài nǎ ér	Where is she?
+我去买水果。	wǒ qù mǎi shuǐ guǒ	I am going to buy fruit.
+你看见她了吗？	nǐ kàn jiàn tā le ma	Did you see her?
+我们去饭店吧。	wǒ men qù fàn diàn ba	Let's go to the restaurant.
 他来了吗？	tā lái le ma	Has he come?
-她还没来。	tā hái méi lái	She hasn't come yet.
-我们一起跑步吧。	wǒ men yì qǐ pǎo bù ba	Let's go running together.
-你每天几点起床？	nǐ měi tiān jǐ diǎn qǐ chuáng	What time do you get up every day?
-我很快就来。	wǒ hěn kuài jiù lái	I'll be there soon.
-他坐在哪里？	tā zuò zài nǎ lǐ	Where is he sitting?
-我坐在这里。	wǒ zuò zài zhè lǐ	I am sitting here.
-你去过北京吗？	nǐ qù guò běi jīng ma	Have you ever been to Beijing?
-我去年去了北京。	wǒ qù nián qù le běi jīng	I went to Beijing last year.
-她正在跑步。	tā zhèng zài pǎo bù	She is running.
-我们比赛吧。	wǒ men bǐ sài ba	Let's have a race.
-你觉得怎么样？	nǐ jué de zěn me yàng	How do you feel?
-我觉得非常好。	wǒ jué de fēi cháng hǎo	I feel very good.
-他们是好朋友。	tā men shì hǎo péng yǒu	They are good friends.
-我必须去医院。	wǒ bì xū qù yī yuàn	I must go to the hospital.
-你要帮助我吗？	nǐ yào bāng zhù wǒ ma	Will you help me?
-我想了解中国。	wǒ xiǎng liǎo jiě zhōng guó	I want to learn about China.
-他决定去北京。	tā jué dìng qù běi jīng	He decided to go to Beijing.
-我们马上出发。	wǒ men mǎ shàng chū fā	We are leaving right away.
-你认为怎么样？	nǐ rèn wéi zěn me yàng	What do you think?
-我相信你。	wǒ xiāng xìn nǐ	I believe you.
-他离开了。	tā lí kāi le	He left.
-我一直在这里。	wǒ yì zhí zài zhè lǐ	I have been here all along.
-你为什么不来？	nǐ wèi shén me bù lái	Why aren't you coming?
-因为我很忙。	yīn wèi wǒ hěn máng	Because I am very busy.
-我们还是去吧。	wǒ men hái shì qù ba	We should still go.
-你别忘了。	nǐ bié wàng le	Don't forget.
-大家一起来吧。	dà jiā yì qǐ lái ba	Everyone come together.
-他也喜欢运动。	tā yě xǐ huān yùn dòng	He also likes sports.
+我不想去。	wǒ bù xiǎng qù	I don't want to go.
+你要喝茶吗？	nǐ yào hē chá ma	Would you like to drink tea?
+我们去学校吧。	wǒ men qù xué xiào ba	Let's go to school.
+她是我姐姐。	tā shì wǒ jiě jiě	She is my older sister.
+这里有什么？	zhè lǐ yǒu shén me	What is here?
+我想认识你。	wǒ xiǎng rèn shí nǐ	I want to get to know you.
+你住在哪里？	nǐ zhù zài nǎ lǐ	Where do you live?
+我们去北京吧。	wǒ men qù běi jīng ba	Let's go to Beijing.
+他在做什么？	tā zài zuò shén me	What is he doing?
+我要回家了。	wǒ yào huí jiā le	I am going home.
+你有孩子吗？	nǐ yǒu hái zi ma	Do you have children?
+我的朋友来了。	wǒ de péng yǒu lái le	My friend has arrived.
+这个是什么意思？	zhè ge shì shén me yì si	What does this mean?
+我想休息一下。	wǒ xiǎng xiū xī yī xià	I want to rest for a while.
+你们去哪里？	nǐ men qù nǎ lǐ	Where are you going?
+我要去医院。	wǒ yào qù yī yuàn	I need to go to the hospital.
+他喜欢喝茶。	tā xǐ huān hē chá	He likes to drink tea.
+我们一起学习吧。	wǒ men yì qǐ xué xí ba	Let's study together.
+你认识这个人吗？	nǐ rèn shí zhè ge rén ma	Do you know this person?
+我爸爸是医生。	wǒ bà bà shì yī shēng	My father is a doctor.
+她很漂亮。	tā hěn piào liàng	She is very beautiful.
+我们去看看吧。	wǒ men qù kàn kàn ba	Let's go take a look.
+他在家吗？	tā zài jiā ma	Is he at home?
+我要买水果。	wǒ yào mǎi shuǐ guǒ	I want to buy fruit.
+你喜欢什么颜色？	nǐ xǐ huān shén me yán sè	What color do you like?
+我想去那里看看。	wǒ xiǎng qù nà lǐ kàn kàn	I want to go there and have a look.
+他来自中国。	tā lái zì zhōng guó	He is from China.
+我们一起去吧。	wǒ men yì qǐ qù ba	Let's go together.
+你学习汉语吗？	nǐ xué xí hàn yǔ ma	Do you study Chinese?
+我的妈妈很忙。	wǒ de mā mā hěn máng	My mother is very busy.
+这里是哪里？	zhè lǐ shì nǎ lǐ	Where is this place?
+我想告诉你。	wǒ xiǎng gào sù nǐ	I want to tell you.
+他不在这里。	tā bù zài zhè lǐ	He is not here.
+你的朋友是谁？	nǐ de péng yǒu shì shuí	Who is your friend?
+我非常喜欢你。	wǒ fēi cháng xǐ huān nǐ	I like you very much.
+她在学校里。	tā zài xué xiào lǐ	She is at school.
+我们一起唱歌吧。	wǒ men yì qǐ chàng gē ba	Let's sing together.
+你要去哪儿？	nǐ yào qù nǎ ér	Where are you going?
+我想喝牛奶。	wǒ xiǎng hē niú nǎi	I want to drink milk.
+他不是老师。	tā bú shì lǎo shī	He is not a teacher.
+我们去运动吧。	wǒ men qù yùn dòng ba	Let's go exercise.
+你有多少钱？	nǐ yǒu duō shǎo qián	How much money do you have?
+我今天很累。	wǒ jīn tiān hěn lèi	I am very tired today.
+这个东西很好吃。	zhè ge dōng xī hěn hǎo chī	This thing is very delicious.
+我们去买东西吧。	wǒ men qù mǎi dōng xī ba	Let's go shopping.
+你的爸爸在哪里？	nǐ de bà bà zài nǎ lǐ	Where is your father?
+我不喜欢考试。	wǒ bù xǐ huān kǎo shì	I don't like exams.
+他在做作文。	tā zài zuò zuò wén	He is writing an essay.
+我们一起跳舞吧。	wǒ men yì qǐ tiào wǔ ba	Let's dance together.
+你喜欢吃什么？	nǐ xǐ huān chī shén me	What do you like to eat?
+我想吃米饭。	wǒ xiǎng chī mǐ fàn	I want to eat rice.
+他在打电话。	tā zài dǎ diàn huà	He is on the phone.
+我们去外面看看。	wǒ men qù wài miàn kàn kàn	Let's go outside and have a look.
+你今天怎么样？	nǐ jīn tiān zěn me yàng	How are you doing today?
+我非常喜欢你。	wǒ fēi cháng xǐ huān nǐ	I like you very much.
+她的衣服很漂亮。	tā de yī fú hěn piào liàng	Her clothes are very beautiful.
+我们一起去买菜。	wǒ men yì qǐ qù mǎi cài	Let's go grocery shopping together.
+你认识这个老师吗？	nǐ rèn shí zhè ge lǎo shī ma	Do you know this teacher?
+我想了解这件事情。	wǒ xiǎng liǎo jiě zhè jiàn shì qíng	I want to understand this matter.
+他去年去了北京。	tā qù nián qù le běi jīng	He went to Beijing last year.
+我们一起准备吧。	wǒ men yì qǐ zhǔn bèi ba	Let's prepare together.
+你喜欢运动吗？	nǐ xǐ huān yùn dòng ma	Do you like sports?
+我觉得他很好。	wǒ jué de tā hěn hǎo	I think he is very good.
+她在旁边等你。	tā zài páng biān děng nǐ	She is waiting for you nearby.
+我们一起去看看。	wǒ men yì qǐ qù kàn kàn	Let's go take a look together.
+你的妈妈是老师吗？	nǐ de mā mā shì lǎo shī ma	Is your mother a teacher?
+我想和你一起去。	wǒ xiǎng hé nǐ yì qǐ qù	I want to go with you.

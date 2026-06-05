@@ -1,0 +1,4 @@
+#separator:tab
+#html:false
+她在听音乐。	tā zài tīng yīn yuè	She is listening to music.
+你坐下吧。	nǐ zuò xià ba	Please sit down.
