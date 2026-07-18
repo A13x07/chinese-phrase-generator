@@ -4,3 +4,6 @@ __pycache__/
 .idea/
 *.db
 .env
+addon/meta.json
+addon/__pycache__/
+addon/user_files/
