@@ -3,7 +3,7 @@
 A tool that generates Chinese reading and speaking practice material 
 matched to the learner's current vocabulary level.
 
-**The problem:** As a beginner studying Chinese (~300 known words), 
+**The problem:** As a beginner studying Chinese (~350 known words), 
 finding practice material at the right level is difficult. Most 
 content either uses vocabulary I haven't learned yet or is too 
 repetitive.
@@ -31,12 +31,18 @@ they contain.
 
 ## What the pipeline does
 1. Cleans and loads Anki vocabulary into a database
-2. Generates practice phrases using AI (capped at 30% of vocabulary)
+2. Generates practice phrases using AI
 3. Analyses each phrase against known vocabulary using word segmentation
 4. Classifies phrases by difficulty (0, 1, 2, 3+ unknown words)
 5. Identifies the most valuable unknown words to learn next
 6. Exports phrases into separate Anki-importable files by difficulty
 7. Generates verified dialogues for speaking practice
+
+## Scalable generation
+- Phrase count is capped at 30% of the total known vocabulary
+- Dialogue count is calculated as one dialogue per 15 known 
+  phrases, with a minimum of 3
+- Both scale automatically as the student's vocabulary grows
 
 ## Output files
 - `data/known_phrases.txt` — fully known phrases
@@ -48,9 +54,6 @@ they contain.
 - `data/dialogues_translation.txt` — dialogues (characters + English)
 - `data/dialogues_full.txt` — dialogues (characters + pinyin + English)
 
-## Documentation
-Task-by-task development documentation is in the `docs/` folder.
-
 ## Note on classification
 Difficulty is determined by comparing each generated phrase against 
 the learner's known vocabulary using word segmentation (jieba). 
@@ -58,3 +61,6 @@ Phrases are classified by the number of unknown words they contain:
 easy (0), medium (1), hard (2), and very hard (3+). This 
 classification is approximate, as accuracy depends on segmentation 
 and context.
+
+## Documentation
+Task-by-task development documentation is in the `docs/` folder.
